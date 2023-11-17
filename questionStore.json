@@ -1,0 +1,20 @@
+[
+    { "question": "What is the speed of light", "subject": "Physics", "topic": "Waves", "difficulty": "Easy", "marks": 5 },
+    { "question": "Another question", "subject": "Math", "topic": "Algebra", "difficulty": "Medium", "marks": 10 },
+    { "question": "Yet another question", "subject": "Chemistry", "topic": "Reactions", "difficulty": "Hard", "marks": 15 },
+    { "question": "What is the speed of sound", "subject": "Physics", "topic": "sound", "difficulty": "Easy", "marks": 5 },
+    { "question": "2nd Math Question", "subject": "Math", "topic": "Calculus", "difficulty": "Medium", "marks": 10 },
+    { "question": "3rd Chemistry Question", "subject": "Chemistry", "topic": "Reactions", "difficulty": "Hard", "marks": 15 },
+    { "question": "4th Physics Question", "subject": "Physics", "topic": "Waves", "difficulty": "Easy", "marks": 5 },
+    { "question": "5th Math Question", "subject": "Math", "topic": "Algebra", "difficulty": "Medium", "marks": 10 },
+    { "question": "6th Chemistry Question", "subject": "Chemistry", "topic": "Reactions", "difficulty": "Hard", "marks": 15 },
+    { "question": "7th Physics Question", "subject": "Physics", "topic": "Waves", "difficulty": "Easy", "marks": 5 },
+    { "question": "8th Math Question", "subject": "Math", "topic": "Algebra", "difficulty": "Medium", "marks": 10 },
+    { "question": "9th Chemistry Question", "subject": "Chemistry", "topic": "Reactions", "difficulty": "Hard", "marks": 15 },
+    { "question": "10th Physics Question", "subject": "Physics", "topic": "Waves", "difficulty": "Easy", "marks": 5 },
+    { "question": "11th Math Question", "subject": "Math", "topic": "Algebra", "difficulty": "Medium", "marks": 10 },
+    { "question": "12th Chemistry Question", "subject": "Chemistry", "topic": "Reactions", "difficulty": "Hard", "marks": 15 },
+    { "question": "13th Physics Question", "subject": "Physics", "topic": "Waves", "difficulty": "Easy", "marks": 5 },
+    { "question": "14th Math Question", "subject": "Math", "topic": "Algebra", "difficulty": "Medium", "marks": 10 },
+    { "question": "15th Chemistry Question", "subject": "Chemistry", "topic": "Reactions", "difficulty": "Hard", "marks": 15 }
+]
